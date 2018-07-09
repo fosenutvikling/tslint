@@ -1,0 +1,23 @@
+{
+  "name": "@fosenu/tslint",
+  "version": "0.1.0",
+  "description": "",
+  "main": "tslint-base.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "tslint": "5.x",
+    "tslint-config-prettier": "1.*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fosenutvikling/tslint"
+  },
+  "author": "Jonas Kirkemyr",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^5.10.0",
+    "tslint-config-prettier": "^1.13.0"
+  }
+}
